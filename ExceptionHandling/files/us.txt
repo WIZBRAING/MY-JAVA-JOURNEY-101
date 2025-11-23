@@ -1,0 +1,1 @@
+This is the beginning of reading or writing to a file.

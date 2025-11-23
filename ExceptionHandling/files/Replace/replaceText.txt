@@ -1,0 +1,2 @@
+Don't remove the string John from the specified file. Your program should not get the 
+arguments from the command line.
