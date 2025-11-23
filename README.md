@@ -40,21 +40,21 @@ Here are some of the things you’ll find in this repo:
    git clone https://github.com/your-username/MY-JAVA-JOURNEY-101.git
 
 
-Open in your IDE (e.g. NetBeans, IntelliJ, Eclipse)
-
-Build / Compile
+2. **Open in your IDE (e.g. NetBeans, IntelliJ, Eclipse)** 
+   
+3. **Build / Compile** 
 
 If using Maven:
-
+ ```bash
 mvn clean compile
-
+```
 
 If using Gradle:
+ ```bash
+mvn clean compile
+```
 
-gradle build
-
-
-Run a Project
+4. **Run a Project**
 Navigate to a project's folder, then run its main class using your IDE or command-line.
 
 ✅ Usage Examples
@@ -62,52 +62,40 @@ Navigate to a project's folder, then run its main class using your IDE or comman
 Here are some simple examples of what you can do with this repo:
 
 Run the Calculator project:
-
+ ```bash
 cd projects/calculator
 java -cp target/classes com.example.calculator.Main
+ ```
 
-
-
-🤝 Contributing
-
+---
+##🤝 Contributing
 I welcome contributions!
-
-Fork this repository
-
-Create a new branch for your feature or fix:
-
+1. Fork this repository
+2. Create a new branch for your feature or fix:
+ ```bash
 git checkout -b feature/your-feature
-
-
-Make changes & commit:
-
+ ```
+3. Make changes & commit:
+ ```bash
 git commit -m "Add your-feature"
-
-
-Push and open a Pull Request
-
+ ```
+4.Push and open a Pull Request
 Please follow good Java coding practices and include comments where necessary.
+---
 
-
-❓ How to Get Help
-
+---
+##❓ How to Get Help
 If you have questions or suggestions:
-
 Open an Issue on GitHub
-
 Email me at tsikposemenyacharles1997@gmail.com
-
-
-📜 License
-
+---
+---
+##📜 License
 This project is licensed under the MIT License, feel free to use or modify it as you like.
-
-
-
-🙏 Acknowledgments
-
+---
+---
+##🙏 Acknowledgments
 Thanks to the many Java tutorials, courses, and books that have guided my learning.
-
 Shoutout to open-source Java projects on GitHub that inspired me.
-
 My friends and peers who review code and motivate me to keep going.
+---
