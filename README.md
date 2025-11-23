@@ -2,7 +2,9 @@
 
 Welcome to **MY-JAVA-JOURNEY-101** — a learning repository where I document and build Java projects as part of my journey to becoming a better Java developer.
 
+
 ---
+
 
 ## 🌱 Project Overview
 
@@ -12,7 +14,9 @@ Welcome to **MY-JAVA-JOURNEY-101** — a learning repository where I document an
   2. Build small projects (console apps, GUI, REST APIs).  
   3. Share code, notes, and exercises publicly for self-review and collaboration.
 
+
 ---
+
 
 ## 📚 What’s Inside
 
@@ -23,7 +27,9 @@ Here are some of the things you’ll find in this repo:
 - `utilities/` — Helper classes, utilities, or reusable code.  
 - `notes/` — Markdown or text notes explaining tricky concepts, code snippets, or cheat sheets.
 
+
 ---
+
 
 ## 🚀 Getting Started
 
@@ -67,8 +73,11 @@ cd projects/calculator
 java -cp target/classes com.example.calculator.Main
  ```
 
+
 ---
-##🤝 Contributing
+
+
+## 🤝 Contributing
 I welcome contributions!
 1. Fork this repository
 2. Create a new branch for your feature or fix:
@@ -81,21 +90,26 @@ git commit -m "Add your-feature"
  ```
 4.Push and open a Pull Request
 Please follow good Java coding practices and include comments where necessary.
----
+
 
 ---
-##❓ How to Get Help
+
+
+## ❓ How to Get Help
 If you have questions or suggestions:
 Open an Issue on GitHub
 Email me at tsikposemenyacharles1997@gmail.com
+
+
 ---
----
-##📜 License
+
+
+## 📜 License
 This project is licensed under the MIT License, feel free to use or modify it as you like.
+
+
 ---
----
-##🙏 Acknowledgments
+## 🙏 Acknowledgments
 Thanks to the many Java tutorials, courses, and books that have guided my learning.
 Shoutout to open-source Java projects on GitHub that inspired me.
 My friends and peers who review code and motivate me to keep going.
----
